@@ -1,7 +1,10 @@
 theme: minima
 title: Personal Blog
-email: hi@hi
 description: description
+
+author:
+name: Darren Weston
+email: hi@hi
 
 header_pages:
   - about.md
