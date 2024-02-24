@@ -3,9 +3,5 @@ title: Personal Blog
 description: description
 
 author:
-  name: Darren Weston
-  email: hi@hi
-
-header_pages:
-  - about.md
-  - portfolio.md
+  Darren Weston
+  hi@hi
