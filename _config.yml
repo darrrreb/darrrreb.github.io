@@ -5,3 +5,7 @@ description: Blog to document things I do!
 author:
   Darren Weston
   darren.rmw@gmail.com
+
+header_pages:
+  - index.md
+  - about.md
