@@ -1,4 +1,4 @@
 ---
-title: Blog
+title: blog
 ---
-**Darren's personal blog**
+##Darren's Personal Blog
