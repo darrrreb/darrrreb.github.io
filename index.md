@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Blog
 ---
-What the blog?!
+**Darren's personal blog**
